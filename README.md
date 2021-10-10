@@ -29,9 +29,14 @@
 
 <br />
 
+<details>
+	<summary>:zap: GitHub Stat's</summary>
+
 <img align="left" alt="GorAlex97 GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goralex97&langs_count=8&theme=vue" />
   
 ![GorAlex97 stat's](https://github-readme-stats.vercel.app/api?username=goralex97&show_icons=true&theme=vue)
+
+</details>
 
 [website]: https://ga97.pp.ua
 [telegram]: https://t.me/goralex97
