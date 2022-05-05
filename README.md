@@ -38,6 +38,13 @@
 
 </details>
 
+<br />
+
+<details>
+	<summary>📇 Daily Dev</summary>
+	<a href="https://app.daily.dev/GorAlex97"><img src="https://api.daily.dev/devcards/ddea9336cea5443e9b5d64a2ec89dc50.png?r=60s" width="400" alt="Gorobchuk Alex's Dev Card"/></a>
+</details>
+
 [website]: https://ga97.pp.ua
 [telegram]: https://t.me/goralex97
 [twitter]: https://twitter.com/goralex97
