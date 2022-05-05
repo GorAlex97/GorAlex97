@@ -42,7 +42,7 @@
 
 <details>
 	<summary>📇 Daily Dev</summary>
-	<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+	<a href="https://app.daily.dev/GorAlex97"><img src="https://github.com/GorAlex97/GorAlex97/blob/master/devcard.svg" width="400" alt="Gorobchuk Alex's Dev Card"/></a>
 </details>
 
 [website]: https://ga97.pp.ua
