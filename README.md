@@ -4,37 +4,48 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/goralex97/gacpf?label=GACPF%20RELEASE&style=for-the-badge)](https://github.com/goralex97/gacpf)
 [![Teleram message](https://img.shields.io/badge/Telegram%20@GorAlex97-send-5cf?style=for-the-badge&logo=telegram)](https://t.me/goralex97)
 
-## I'm a Web and native developer, PC master and drummer!
+## Я веб та нативний розробник, ПК майстер та барабанщик!
 
-- 🌱 I’m currently learning everything
-- 🏆 2021 Goals: Release first projects
-- 🥁 I love play on drums
+- 🌱 Зараз я вчуся всьому
+- 🏆 Цілі на 2023 рік: випустити перший комерційний проект
+- 🥁 Люблю грати на барабанах
 
-### Languages and Tools:
+### Мови та інструменти:
 
 | [<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/GorAlex97/GorAlex97/main/icons/html5.svg" />]() | [<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/GorAlex97/GorAlex97/main/icons/css3.svg" />]() | [<img alt="Sass" width="26px" src="https://raw.githubusercontent.com/GorAlex97/GorAlex97/main/icons/sass.svg" />]() | [<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/GorAlex97/GorAlex97/main/icons/javascript.svg" />]() | [<img alt="PHP" width="26px" src="https://raw.githubusercontent.com/GorAlex97/GorAlex97/main/icons/php.svg" />]() | [<img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]() | [<img alt="Git" width="26px" src="https://raw.githubusercontent.com/GorAlex97/GorAlex97/main/icons/git.svg" />]() |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 | [<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/GorAlex97/GorAlex97/main/icons/vscode.svg" />]() | [<img alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/GorAlex97/GorAlex97/main/icons/sublime.svg" />]() | [<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]() | [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/GorAlex97/GorAlex97/main/icons/github.svg" />]() | [<img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/GorAlex97/GorAlex97/main/icons/powershell.svg" />]() |
 |:-:|:-:|:-:|:-:|:-:|
-#
 
+<br>
+
+### Проєкти
+
+| Готовність | Назва | Опис |
+|:----------:|:-----:|:----:|
+| ✔️ | [GACPF](https://github.com/GorAlex97/GACPF) | GORAlex Comp PHP Function |
+| ✔️ | [Date-Difference](https://github.com/GorAlex97/Date-Difference) | 📆 Find days number from birthday to days |
+| ✔️ | [GMCinema](https://github.com/GorAlex97/GMCinema) | Garry's Mode - Cinema mod inteface for player 🔴 |
+
+<br>
+<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br />
+<br>
 
 <details>
-  <summary>📑 Recent GitHub Activity</summary>
+  <summary>📑 Остання GitHub активність</summary>
   
-1. 📇 Release [GorAlex97/GACPF](https://github.com/GorAlex97/GACPF)
+1. 📇 Реліз [GorAlex97/GACPF](https://github.com/GorAlex97/GACPF)
 
 </details>
 
 <br />
 
 <details>
-	<summary>📊 GitHub Stat's</summary>
+	<summary>📊 GitHub статистика</summary>
 
 <img align="left" alt="GorAlex97 GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goralex97&langs_count=8&theme=vue" />
   
